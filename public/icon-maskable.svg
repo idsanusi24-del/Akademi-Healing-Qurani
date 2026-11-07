@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bgMask" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#064E3B" />
+      <stop offset="100%" stop-color="#022C22" />
+    </linearGradient>
+    <linearGradient id="goldMask" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FDE68A" />
+      <stop offset="100%" stop-color="#D97706" />
+    </linearGradient>
+  </defs>
+  <!-- Full bleed for maskable safe zone -->
+  <rect width="512" height="512" fill="url(#bgMask)" />
+  <!-- Safe zone inner content (within 80% circle) -->
+  <circle cx="256" cy="256" r="160" fill="none" stroke="url(#goldMask)" stroke-width="3" stroke-dasharray="8 8" opacity="0.3" />
+  <path d="M256 180 C220 158 170 166 142 180 L142 330 C170 316 220 308 256 330 C292 308 342 316 370 330 L370 180 C342 166 292 158 256 180 Z" fill="none" stroke="url(#goldMask)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" />
+  <line x1="256" y1="180" x2="256" y2="330" stroke="url(#goldMask)" stroke-width="6" stroke-linecap="round" />
+  <polygon points="256,130 262,146 279,146 265,156 270,172 256,162 242,172 247,156 233,146 250,146" fill="url(#goldMask)" />
+</svg>

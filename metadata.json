@@ -1,0 +1,8 @@
+{
+  "name": "Menata Hidup - Bimbingan Belajar Islam",
+  "description": "Platform bimbingan belajar Islam intensif 90 hari: Menata Akidah, Memperbaiki Akhlak, Membersihkan Jiwa, Mengamalkan Syariat, dan Mempersiapkan Kehidupan Akhirat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

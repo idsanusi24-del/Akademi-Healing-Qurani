@@ -1,0 +1,1082 @@
+# A. IDENTITAS DAN KONSEP APLIKASI
+
+Bangun sebuah aplikasi website pembelajaran Islam yang terintegrasi, profesional, sistematis, responsif, dan dapat digunakan secara nyata dengan nama:
+
+**BIMBINGAN BELAJAR MENATA HIDUP MENUJU AKHIR HIDUP YANG INDAH**
+
+Nama singkat aplikasi:
+**MENATA HIDUP**
+
+Tagline:
+*"Menata Akidah, Memperbaiki Akhlak, Membersihkan Jiwa, Mengamalkan Syariat, dan Mempersiapkan Kehidupan Akhirat."*
+
+Aplikasi ini merupakan platform pendidikan Islam nonformal yang dirancang untuk membantu peserta mempelajari, memahami, dan mengamalkan ajaran Islam secara bertahap selama tiga bulan atau 90 hari.
+
+Pembelajaran dilaksanakan melalui website dengan sistem akademik yang terstruktur, meliputi:
+1. Kurikulum pembelajaran selama 90 hari.
+2. Enam mata pelajaran utama.
+3. Materi pembelajaran harian yang terbuka secara otomatis.
+4. Evaluasi setiap pekan pada hari Ahad.
+5. Evaluasi akhir setiap bulan.
+6. Evaluasi akhir program pada pertemuan terakhir.
+7. Pemantauan kehadiran dan perkembangan belajar.
+8. Tugas dan jurnal penerapan materi.
+9. Perpustakaan buku dan referensi.
+10. Sertifikat penyelesaian program yang disahkan oleh pembimbing yang berwenang.
+
+Aplikasi harus dibangun sebagai sistem yang benar-benar berfungsi, bukan sekadar desain antarmuka atau demonstrasi.
+
+Seluruh fitur penting harus terhubung dengan database dan dapat digunakan melalui perangkat komputer, tablet, maupun telepon seluler.
+
+# B. LANDASAN ILMIAH DAN PRINSIP PEMBELAJARAN
+
+Seluruh isi pembelajaran harus berlandaskan Al-Qur'an dan Sunnah yang sahih, dengan memperhatikan pemahaman generasi Salafus Shalih serta penjelasan para ulama yang dapat dipertanggungjawabkan.
+
+Ketentuan penyusunan materi:
+
+1. Setiap pembahasan harus memiliki tujuan pembelajaran yang jelas.
+2. Materi disusun secara bertahap dari dasar menuju pembahasan yang lebih mendalam.
+3. Setiap materi dilengkapi dalil yang relevan.
+4. Ayat Al-Qur'an ditulis dalam bahasa Arab, terjemahan bahasa Indonesia, nama surah, dan nomor ayat.
+5. Hadis dicantumkan dengan teks Arab apabila tersedia, terjemahan, nama kitab hadis, nomor hadis, serta penilaian derajat hadis berdasarkan sumber yang dapat diverifikasi.
+6. Kutipan pendapat ulama harus mencantumkan nama ulama dan sumber yang dapat diperiksa.
+7. Referensi buku harus mencantumkan judul, penulis, penerbit apabila diketahui, edisi atau tahun terbit apabila terverifikasi, serta halaman apabila halaman tersebut benar-benar telah diperiksa.
+8. Jangan mengarang kutipan, nomor hadis, nomor halaman, judul buku, atau pendapat ulama.
+9. Jika suatu referensi belum dapat diverifikasi, tandai sebagai referensi yang memerlukan pemeriksaan dan jangan menjadikannya dasar klaim yang pasti.
+10. Bedakan antara dalil yang tegas, penjelasan ulama, pendapat fikih, dan kesimpulan pedagogis.
+11. Untuk persoalan khilafiyah, jelaskan perbedaan pendapat secara proporsional dengan menyebutkan sumbernya.
+12. Materi harus menggunakan bahasa Indonesia yang santun, jelas, mudah dipahami, dan tetap memiliki kedalaman akademik.
+13. Hindari klaim berlebihan, manipulasi emosional, serta janji bahwa mengikuti program otomatis menjamin seseorang masuk surga.
+14. Tekankan bahwa tujuan pembelajaran adalah memperbaiki iman, ilmu, amal, akhlak, dan kesiapan menghadapi kematian sesuai tuntunan Islam.
+
+# C. STRUKTUR MATA PELAJARAN
+
+Bangun enam mata pelajaran inti berikut.
+
+## 1. AQIDAH ISLAMIYAH
+
+Tujuan:
+Membimbing peserta memahami dan memperbaiki keyakinan, mengenal Allah berdasarkan dalil, memahami tauhid, serta mempelajari iman kepada perkara-perkara yang menjadi bagian dari akidah Islam.
+
+Pokok bahasan:
+- Pengertian akidah dan kedudukannya dalam kehidupan seorang Muslim.
+- Makna syahadatain dan konsekuensinya.
+- Tauhid dan pembagiannya menurut penjelasan ulama.
+- Mengenal Allah melalui nama dan sifat-Nya berdasarkan dalil.
+- Iman kepada malaikat.
+- Iman kepada kitab-kitab Allah.
+- Iman kepada para rasul.
+- Iman kepada hari akhir.
+- Iman kepada takdir yang baik dan buruk.
+- Pembatal dan perusak keimanan berdasarkan dalil yang benar.
+- Bahaya syirik dan berbagai bentuknya.
+- Tawakal, takut, berharap, cinta, dan doa dalam ibadah.
+- Memperbaiki hubungan seorang hamba dengan Allah.
+- Menumbuhkan keyakinan terhadap janji dan ancaman Allah.
+
+## 2. AKHLAK DAN ADAB ISLAMIYAH
+
+Tujuan:
+Membentuk pribadi Muslim yang memiliki akhlak terpuji dan menerapkan adab Islam dalam kehidupan sehari-hari.
+
+Pokok bahasan:
+- Kedudukan akhlak dalam Islam.
+- Ikhlas dalam beramal.
+- Kejujuran dan amanah.
+- Sabar dalam menghadapi ujian.
+- Syukur atas nikmat Allah.
+- Tawaduk dan menjauhi kesombongan.
+- Menjaga lisan.
+- Mengendalikan amarah.
+- Adab terhadap orang tua.
+- Adab terhadap pasangan dan anak.
+- Adab bertetangga dan bermasyarakat.
+- Menjaga hak sesama Muslim.
+- Menghindari ghibah, namimah, fitnah, dan kedustaan.
+- Memaafkan tanpa mengabaikan hak dan keadilan.
+- Mengembangkan tanggung jawab pribadi.
+- Membiasakan akhlak mulia dalam kehidupan nyata.
+
+## 3. HADIS DAN SUNNAH
+
+Tujuan:
+Mengenalkan peserta kepada hadis-hadis yang menjadi landasan iman, ibadah, akhlak, dan persiapan menuju akhirat.
+
+Pokok bahasan:
+- Pengertian hadis dan Sunnah.
+- Kedudukan Sunnah dalam Islam.
+- Mengenal hadis sahih, hasan, dan daif secara dasar.
+- Pentingnya memeriksa keabsahan hadis.
+- Hadis tentang niat dan keikhlasan.
+- Hadis tentang iman dan Islam.
+- Hadis tentang ihsan.
+- Hadis tentang takwa.
+- Hadis tentang akhlak mulia.
+- Hadis tentang menjaga lisan.
+- Hadis tentang hak sesama manusia.
+- Hadis tentang tobat.
+- Hadis tentang kematian dan persiapan menghadapinya.
+- Hadis tentang amal yang pahalanya terus mengalir.
+- Hadis tentang kehidupan akhirat.
+- Penerapan hadis dalam kehidupan sehari-hari.
+
+Prioritaskan sumber hadis yang dapat diverifikasi, terutama kitab-kitab hadis primer dan penjelasan ulama yang kredibel.
+
+## 4. TAZKIYATUN NAFS
+
+Tujuan:
+Membantu peserta mengenali keadaan dirinya, memperbaiki niat, membersihkan jiwa dari penyakit hati, dan membangun kebiasaan amal saleh.
+
+Pokok bahasan:
+- Makna tazkiyatun nafs berdasarkan Al-Qur'an dan Sunnah.
+- Muhasabah diri.
+- Ikhlas dan bahaya riya.
+- Penyakit hati dan cara penanganannya.
+- Hasad dan cara menghindarinya.
+- Ujub dan kesombongan.
+- Cinta dunia secara berlebihan.
+- Panjang angan-angan dan kelalaian.
+- Tobat yang benar.
+- Istigfar dan memperbanyak zikir.
+- Sabar dan syukur.
+- Husnuzan kepada Allah sesuai tuntunan syariat.
+- Mengelola emosi dan dorongan diri.
+- Membiasakan membaca Al-Qur'an.
+- Menjaga waktu dan memanfaatkan umur.
+- Menyusun rencana perbaikan diri.
+- Membiasakan amal saleh secara konsisten.
+- Muhasabah kehidupan dan persiapan menghadapi kematian.
+
+Materi harus menghindari diagnosis gangguan kejiwaan tanpa dasar klinis. Pembinaan ruhani tidak boleh diposisikan sebagai pengganti bantuan tenaga kesehatan profesional apabila diperlukan.
+
+## 5. FIKIH IBADAH DAN KEHIDUPAN
+
+Tujuan:
+Membimbing peserta memahami hukum-hukum ibadah dan persoalan kehidupan sehari-hari berdasarkan dalil serta penjelasan ulama.
+
+Pokok bahasan:
+- Pengertian fikih dan sumber pengambilan hukum.
+- Thaharah dan bersuci.
+- Wudu dan perkara yang membatalkannya.
+- Mandi wajib.
+- Tayamum.
+- Salat wajib dan penyempurnaannya.
+- Salat berjemaah.
+- Salat sunah yang utama.
+- Puasa dan hukum-hukumnya.
+- Zakat dan ketentuan dasarnya.
+- Haji dan umrah secara pengantar.
+- Doa dan zikir sehari-hari.
+- Tobat dan kewajiban memperbaiki kesalahan.
+- Hak-hak yang wajib ditunaikan.
+- Pengurusan jenazah dan adab menghadapi kematian.
+- Wasiat dan hal-hal dasar yang berkaitan dengan hak keluarga.
+- Persiapan kehidupan akhirat.
+
+Dalam masalah yang memiliki perbedaan pendapat fikih, sediakan penjelasan yang terukur dan tidak memaksakan kesimpulan tanpa dasar.
+
+## 6. MUAMALAH ISLAMIYAH
+
+Tujuan:
+Membantu peserta menerapkan prinsip-prinsip Islam dalam hubungan sosial, keluarga, pekerjaan, dan kegiatan ekonomi.
+
+Pokok bahasan:
+- Pengertian muamalah.
+- Prinsip dasar muamalah dalam Islam.
+- Kejujuran dalam transaksi.
+- Halal dan haram dalam penghasilan.
+- Riba dan prinsip menghindarinya.
+- Jual beli dan syarat dasarnya.
+- Utang piutang dan kewajiban membayar utang.
+- Amanah dalam pekerjaan.
+- Hak pekerja dan pemberi kerja.
+- Hak dan kewajiban suami istri.
+- Pendidikan anak dan tanggung jawab orang tua.
+- Silaturahmi dan hubungan sosial.
+- Hak tetangga.
+- Menjaga harta dan menghindari kezaliman.
+- Sedekah, infak, dan wakaf.
+- Warisan dan pengantar hukum kewarisan Islam.
+- Menyelesaikan konflik dengan adil.
+- Mempersiapkan penyelesaian tanggungan sebelum meninggal dunia.
+
+Untuk persoalan hukum, keuangan, warisan, dan transaksi yang kompleks, berikan penjelasan edukatif serta anjuran berkonsultasi kepada ahli yang kompeten.
+
+# D. DESAIN KURIKULUM AKADEMIK SELAMA 90 HARI
+
+Buat kurikulum yang mencakup tepat 90 hari kalender, dengan enam mata pelajaran yang saling berkaitan.
+
+Bagi program menjadi tiga bulan pembelajaran.
+
+## BULAN PERTAMA: MEMBENAHI DASAR KEHIDUPAN
+
+Tema:
+"Mengenal Tujuan Hidup, Memperbaiki Iman, dan Memulai Perubahan."
+
+Fokus:
+- Memahami tujuan penciptaan manusia.
+- Memperbaiki akidah dan niat.
+- Memahami kedudukan ibadah.
+- Mengenali kewajiban dasar seorang Muslim.
+- Memperbaiki kebiasaan sehari-hari.
+- Memulai muhasabah dan pembiasaan amal.
+
+Pembagian:
+Pekan 1: Tujuan hidup, makna penghambaan, dan orientasi akhirat.
+
+Pekan 2: Dasar-dasar akidah, syahadat, dan keimanan.
+
+Pekan 3: Niat, ikhlas, tobat, dan pembinaan hati.
+
+Pekan 4: Dasar ibadah, adab, tanggung jawab, dan evaluasi bulan pertama.
+
+## BULAN KEDUA: MEMPERBAIKI DIRI DAN HUBUNGAN DENGAN SESAMA
+
+Tema:
+"Membersihkan Hati, Memperbaiki Akhlak, dan Menunaikan Hak."
+
+Fokus:
+- Memperdalam pemahaman akidah.
+- Membina akhlak dan pengendalian diri.
+- Memahami hadis pilihan.
+- Memperbaiki ibadah.
+- Menyelesaikan kewajiban terhadap keluarga dan masyarakat.
+- Memperbaiki hubungan sosial dan muamalah.
+
+Pembagian:
+Pekan 5: Penyakit hati dan pembinaan tazkiyatun nafs.
+
+Pekan 6: Akhlak, adab, keluarga, dan tanggung jawab sosial.
+
+Pekan 7: Fikih ibadah, hak sesama manusia, dan muamalah.
+
+Pekan 8: Amanah, kejujuran, penghasilan halal, dan evaluasi bulan kedua.
+
+## BULAN KETIGA: MEMANTAPKAN AMAL DAN MEMPERSIAPKAN AKHIRAT
+
+Tema:
+"Menata Sisa Umur, Memperbanyak Amal Saleh, dan Mempersiapkan Akhir Kehidupan."
+
+Fokus:
+- Memperkuat iman kepada hari akhir.
+- Memperdalam pemahaman tentang kematian berdasarkan dalil.
+- Memperbaiki kualitas ibadah.
+- Menyelesaikan tanggungan dan hak sesama manusia.
+- Menyusun kebiasaan amal jangka panjang.
+- Membuat rencana kehidupan setelah program selesai.
+
+Pembagian:
+Pekan 9: Iman kepada hari akhir dan persiapan menghadapi kematian.
+
+Pekan 10: Tobat, istikamah, dan amal saleh.
+
+Pekan 11: Hak manusia, utang, amanah, wasiat, dan tanggung jawab keluarga.
+
+Pekan 12: Muhasabah, rencana perbaikan diri, dan persiapan akhirat.
+
+Hari ke-85 sampai hari ke-89: Penguatan materi, tugas akhir, refleksi, dan persiapan evaluasi akhir.
+
+Hari ke-90: Evaluasi akhir program, penilaian kelulusan, dan penetapan peserta yang memenuhi syarat untuk memperoleh sertifikat.
+
+Jangan hanya membagi topik berdasarkan pekan. Sistem harus menghasilkan jadwal 90 hari yang berisi materi individual setiap hari.
+
+Jika suatu pekan hanya memiliki enam hari sebelum evaluasi Ahad, susun enam materi pembelajaran dan satu sesi evaluasi. Pastikan materi yang tertunda tidak hilang dan semua mata pelajaran tetap terwakili secara seimbang.
+
+Tanggal mulai program harus dapat ditentukan oleh administrator.
+
+Sistem harus menghitung tanggal dan nomor hari secara otomatis berdasarkan tanggal mulai tersebut.
+
+# E. SISTEM MATERI HARIAN OTOMATIS
+
+Setiap hari memiliki satu modul pembelajaran utama yang terjadwal.
+
+Materi harian minimal memuat:
+
+1. Nomor hari dan tanggal pembelajaran.
+2. Tema pembelajaran.
+3. Mata pelajaran.
+4. Judul materi.
+5. Tujuan pembelajaran.
+6. Capaian pembelajaran.
+7. Materi inti yang terstruktur.
+8. Dalil Al-Qur'an yang relevan.
+9. Hadis yang relevan.
+10. Penjelasan ulama dan referensi.
+11. Contoh penerapan dalam kehidupan.
+12. Kesalahan yang perlu dihindari.
+13. Rangkuman materi.
+14. Pertanyaan refleksi.
+15. Tugas praktik harian.
+16. Kuis pemahaman.
+17. Daftar referensi.
+18. Tombol tandai selesai.
+
+Panjang materi menyesuaikan tingkat kesulitan dan kemampuan peserta. Utamakan kedalaman yang memadai, keterbacaan, dan ketepatan referensi.
+
+Jangan menghasilkan materi yang sekadar mengulang judul atau berisi paragraf generik.
+
+## ATURAN PEMBUKAAN MATERI
+
+Gunakan zona waktu Asia/Jakarta atau WIB.
+
+Materi hari ke-1 terbuka pada pukul 00.00 WIB pada tanggal mulai program.
+
+Materi hari berikutnya terbuka otomatis setiap pukul 00.00 WIB berdasarkan tanggal program.
+
+Aturan:
+- Sebelum tanggal pembukaan, materi berstatus terkunci.
+- Tepat pada waktu pembukaan, materi berubah menjadi tersedia.
+- Materi yang sudah terbuka tetap dapat diakses sesuai kebijakan administrator.
+- Peserta tidak dapat mengakses materi masa depan dengan memanipulasi URL, parameter, atau permintaan API.
+- Materi evaluasi juga mengikuti jadwal yang ditentukan.
+- Administrator dapat mengatur pengecualian melalui fitur khusus yang tercatat dalam log aktivitas.
+
+PENTING:
+Jangan hanya menggunakan JavaScript pada browser untuk mengunci materi.
+
+Terapkan pemeriksaan jadwal pada backend atau database agar aturan pembukaan materi tidak dapat dilewati dengan mudah.
+
+Gunakan waktu server yang konsisten dan simpan waktu dalam format yang aman untuk perhitungan zona waktu.
+
+# F. SISTEM EVALUASI PEKANAN SETIAP AHAD
+
+Setiap hari Ahad dijadwalkan sebagai hari evaluasi mingguan.
+
+Fitur:
+1. Evaluasi otomatis tersedia pada pukul 00.00 WIB hari Ahad.
+2. Soal diambil dari materi yang telah dipelajari pada pekan terkait.
+3. Evaluasi dapat memuat pilihan ganda, benar-salah, jawaban singkat, dan soal uraian.
+4. Soal pilihan ganda dan benar-salah dinilai otomatis.
+5. Jawaban uraian dapat dinilai pembimbing menggunakan rubrik.
+6. Setiap evaluasi memiliki batas waktu apabila ditetapkan administrator.
+7. Sistem menyimpan jawaban dan hasil peserta.
+8. Peserta dapat melihat nilai setelah waktu atau aturan publikasi hasil terpenuhi.
+9. Sistem mencatat peserta yang belum mengikuti evaluasi.
+10. Pembimbing dapat memberikan umpan balik.
+
+Setiap evaluasi harus menguji pemahaman, bukan sekadar hafalan.
+
+Buat bank soal yang terhubung dengan materi dan tujuan pembelajaran.
+
+Gunakan variasi soal antarpeserta jika memungkinkan.
+
+Sediakan mekanisme pencegahan pengiriman jawaban ganda dan pencatatan waktu pengerjaan.
+
+Jangan menyatakan bahwa aplikasi dapat mencegah semua bentuk kecurangan. Fokus pada pencatatan, integritas data, dan desain evaluasi yang baik.
+
+# G. EVALUASI BULANAN
+
+Pada akhir setiap bulan, selenggarakan evaluasi komprehensif.
+
+Evaluasi bulan pertama:
+- Dasar akidah.
+- Tujuan hidup.
+- Niat dan ikhlas.
+- Dasar ibadah.
+- Akhlak dan kebiasaan awal.
+
+Evaluasi bulan kedua:
+- Tazkiyatun nafs.
+- Akhlak dan adab.
+- Pemahaman hadis.
+- Fikih ibadah.
+- Muamalah dan hak sesama manusia.
+
+Evaluasi bulan ketiga:
+- Penguatan akidah.
+- Istikamah dan amal saleh.
+- Persiapan menghadapi kematian.
+- Hak dan tanggung jawab.
+- Rencana perbaikan diri.
+
+Setiap evaluasi bulanan memuat:
+- Kisi-kisi.
+- Soal pilihan ganda.
+- Soal uraian.
+- Pertanyaan penerapan.
+- Penilaian otomatis untuk soal objektif.
+- Penilaian manual untuk soal yang membutuhkan pertimbangan pembimbing.
+- Nilai akhir.
+- Umpan balik.
+- Rekomendasi perbaikan.
+
+Atur agar evaluasi bulanan terintegrasi dengan evaluasi pekanan tanpa menghilangkan kewajiban evaluasi Ahad.
+
+Apabila hari evaluasi bulanan bertepatan dengan Ahad, sistem boleh menggabungkan sesi dalam satu jadwal dengan dua bagian penilaian yang terpisah.
+
+# H. EVALUASI AKHIR PROGRAM HARI KE-90
+
+Pada hari ke-90, selenggarakan evaluasi akhir sebagai penilaian komprehensif terhadap capaian belajar peserta.
+
+Komponen:
+1. Tes pemahaman akidah.
+2. Tes pemahaman akhlak.
+3. Tes hadis dan Sunnah.
+4. Tes tazkiyatun nafs.
+5. Tes fikih.
+6. Tes muamalah.
+7. Refleksi perjalanan belajar.
+8. Tugas rencana perbaikan diri.
+9. Penilaian tugas dan partisipasi.
+10. Penilaian akhir oleh pembimbing.
+
+Buat rekap nilai akhir yang dapat diperiksa oleh administrator dan pembimbing.
+
+Sediakan mekanisme remedial jika peserta belum memenuhi standar kelulusan.
+
+Jangan menetapkan kelulusan hanya berdasarkan nilai pilihan ganda.
+
+Penilaian harus memperhatikan penguasaan materi, penyelesaian evaluasi, tugas, dan persyaratan program.
+
+# I. SISTEM PENILAIAN AKADEMIK
+
+Gunakan skala nilai 0–100.
+
+Usulan komposisi nilai akhir:
+- Evaluasi mingguan: 25%.
+- Evaluasi bulanan: 30%.
+- Tugas dan praktik: 20%.
+- Evaluasi akhir program: 25%.
+
+Nilai akhir dihitung secara otomatis berdasarkan bobot tersebut.
+
+Nilai yang belum tersedia tidak boleh dianggap nol secara otomatis apabila peserta masih memiliki kesempatan menyelesaikan penilaian. Tampilkan status belum lengkap dan gunakan aturan yang ditentukan administrator.
+
+Usulan kategori:
+- 90–100: Sangat Baik.
+- 80–89: Baik.
+- 70–79: Cukup.
+- Di bawah 70: Perlu Bimbingan.
+
+Usulan standar kelulusan:
+1. Nilai akhir minimal 75.
+2. Minimal 80% materi wajib telah diselesaikan.
+3. Seluruh evaluasi bulanan wajib telah diikuti atau diselesaikan melalui mekanisme susulan yang sah.
+4. Evaluasi akhir program telah diikuti.
+5. Tugas akhir telah diserahkan.
+6. Pembimbing telah melakukan verifikasi kelulusan.
+
+Seluruh standar tersebut harus dapat diubah administrator sebelum program dimulai.
+
+# J. SERTIFIKAT RESMI PROGRAM
+
+Sediakan fitur penerbitan sertifikat digital untuk peserta yang telah memenuhi seluruh persyaratan.
+
+Sertifikat harus memuat:
+- Nama lembaga atau penyelenggara.
+- Nama program: Bimbingan Belajar Menata Hidup Menuju Akhir Hidup yang Indah.
+- Nama lengkap peserta.
+- Nomor sertifikat unik.
+- Periode pembelajaran.
+- Tanggal penerbitan.
+- Status kelulusan.
+- Nama pembimbing.
+- Tanda tangan pembimbing yang sah atau tanda tangan elektronik yang diotorisasi.
+- Logo lembaga jika tersedia.
+- Kode QR untuk verifikasi sertifikat.
+- Tautan halaman verifikasi.
+- Keterangan program sebagai pendidikan nonformal apabila sesuai.
+
+Sertifikat hanya dapat diterbitkan setelah:
+1. Nilai akhir diverifikasi.
+2. Persyaratan kelulusan terpenuhi.
+3. Pembimbing menyetujui penerbitan.
+4. Data peserta diperiksa.
+5. Nomor sertifikat dihasilkan secara unik.
+
+Buat dua jenis status:
+- Peserta menyelesaikan program tetapi belum memenuhi syarat kelulusan.
+- Peserta lulus dan berhak menerima sertifikat.
+
+Sertifikat tidak boleh mengklaim sebagai ijazah pendidikan formal atau sertifikasi profesi yang diakui pemerintah apabila tidak memiliki dasar kewenangan tersebut.
+
+Sediakan:
+- Pratinjau sertifikat.
+- Unduh PDF.
+- Cetak sertifikat.
+- Verifikasi melalui kode QR.
+- Riwayat penerbitan.
+- Pembatalan sertifikat oleh administrator dengan alasan yang tercatat.
+
+Tanda tangan tidak boleh ditempelkan secara otomatis atas nama pembimbing tanpa persetujuan atau otorisasi.
+
+# K. PERPUSTAKAAN REFERENSI DIGITAL
+
+Bangun perpustakaan yang menyimpan daftar buku, kitab, artikel ilmiah, dan sumber pembelajaran yang relevan.
+
+Kelompokkan berdasarkan:
+- Akidah.
+- Akhlak.
+- Hadis.
+- Tazkiyatun nafs.
+- Fikih.
+- Muamalah.
+- Persiapan menghadapi kematian.
+- Pendidikan Islam dan metodologi pembelajaran.
+
+Contoh sumber awal yang perlu diverifikasi:
+
+1. Al-Qur'an al-Karim.
+2. Shahih al-Bukhari.
+3. Shahih Muslim.
+4. Riyadhus Shalihin, karya Imam an-Nawawi.
+5. Al-Adzkar, karya Imam an-Nawawi.
+6. Al-Wabil ash-Shayyib, karya Ibn al-Qayyim.
+7. Madarij as-Salikin, karya Ibn al-Qayyim.
+8. Jami' al-'Ulum wa al-Hikam, karya Ibn Rajab al-Hanbali.
+9. Al-Ushul ats-Tsalatsah, karya Muhammad bin Abdul Wahhab.
+10. Kitab-kitab fikih mu'tabar dari mazhab-mazhab fikih.
+11. Kitab-kitab syarah hadis yang relevan.
+12. Buku kontemporer yang kredibel dan dapat diperiksa.
+13. Artikel ilmiah yang relevan dengan pendidikan agama, pembentukan kebiasaan, dan pembelajaran orang dewasa.
+
+Daftar ini adalah titik awal kurasi, bukan pernyataan bahwa seluruh buku sudah diverifikasi untuk semua materi.
+
+Setiap referensi harus memiliki:
+- Judul.
+- Penulis.
+- Kategori.
+- Bahasa.
+- Penerbit jika diketahui.
+- Edisi atau tahun terbit jika diketahui.
+- ISBN atau identitas bibliografis lain jika tersedia.
+- Tautan resmi apabila tersedia.
+- Catatan verifikasi.
+- Daftar materi yang menggunakan referensi tersebut.
+
+Jangan mengunggah atau menyebarkan buku berhak cipta secara penuh tanpa izin atau dasar penggunaan yang sah.
+
+Utamakan sumber yang legal, karya domain publik, akses terbuka, dan tautan penerbit atau perpustakaan yang sah.
+
+# L. STRUKTUR PENGGUNA DAN HAK AKSES
+
+Buat empat jenis akun.
+
+## 1. SUPER ADMIN
+
+Hak akses:
+- Mengelola seluruh sistem.
+- Mengelola akun administrator dan pembimbing.
+- Menetapkan tanggal mulai program.
+- Mengatur kalender akademik.
+- Mengelola mata pelajaran.
+- Mengatur kurikulum 90 hari.
+- Menambah, mengubah, dan menghapus materi sesuai kebijakan.
+- Mengatur jadwal pembukaan materi.
+- Mengelola bank soal.
+- Mengatur bobot penilaian.
+- Mengelola sertifikat.
+- Mengelola referensi.
+- Melihat laporan keseluruhan.
+- Mengakses log aktivitas.
+
+## 2. ADMIN AKADEMIK
+
+Hak akses:
+- Mengelola peserta.
+- Mengelola jadwal belajar.
+- Memeriksa kelengkapan materi.
+- Mengelola evaluasi.
+- Memantau kehadiran dan aktivitas.
+- Menyiapkan laporan akademik.
+- Mengelola permintaan bantuan peserta.
+
+Hak akses yang sensitif harus dibatasi berdasarkan peran dan kebutuhan.
+
+## 3. PEMBIMBING
+
+Hak akses:
+- Melihat peserta bimbingan.
+- Memeriksa perkembangan belajar.
+- Memeriksa tugas.
+- Menilai jawaban uraian.
+- Memberikan umpan balik.
+- Melakukan verifikasi kelulusan.
+- Menyetujui penerbitan sertifikat.
+- Menandatangani sertifikat sesuai otorisasi.
+- Melihat laporan perkembangan peserta yang menjadi tanggung jawabnya.
+
+## 4. PESERTA
+
+Hak akses:
+- Melihat dashboard pribadi.
+- Membaca materi yang telah terbuka.
+- Mengikuti kuis dan evaluasi.
+- Mengumpulkan tugas.
+- Mengisi jurnal refleksi.
+- Melihat nilai dan umpan balik.
+- Melihat kalender akademik.
+- Memantau progres belajar.
+- Mengakses perpustakaan.
+- Mengunduh sertifikat apabila memenuhi syarat.
+- Mengubah data profil yang diizinkan.
+
+Peserta tidak boleh melihat nilai, tugas, atau jurnal pribadi milik peserta lain.
+
+# M. DASHBOARD PESERTA
+
+Buat dashboard yang menampilkan:
+
+1. Nama peserta.
+2. Nomor peserta.
+3. Periode pembelajaran.
+4. Hari pembelajaran saat ini.
+5. Materi yang tersedia hari ini.
+6. Hitung mundur pembukaan materi berikutnya.
+7. Kalender akademik.
+8. Progres penyelesaian 90 hari.
+9. Progres setiap mata pelajaran.
+10. Evaluasi yang harus dikerjakan.
+11. Nilai evaluasi terakhir.
+12. Tugas yang belum diselesaikan.
+13. Catatan pembimbing.
+14. Status kelulusan.
+15. Status sertifikat.
+
+Gunakan visualisasi progres yang mudah dipahami.
+
+Jangan menampilkan hitung mundur negatif atau menyatakan materi sudah terbuka jika backend belum mengizinkannya.
+
+# N. DASHBOARD ADMIN DAN PEMBIMBING
+
+Sediakan statistik:
+- Total peserta terdaftar.
+- Peserta aktif.
+- Peserta yang tidak aktif.
+- Tingkat penyelesaian materi.
+- Tingkat keikutsertaan evaluasi.
+- Rata-rata nilai mingguan.
+- Rata-rata nilai bulanan.
+- Peserta yang membutuhkan bimbingan.
+- Peserta yang memenuhi syarat kelulusan.
+- Sertifikat yang telah diterbitkan.
+- Materi yang belum lengkap.
+- Evaluasi yang belum diperiksa.
+
+Sediakan pencarian, penyaringan, pengurutan, dan ekspor laporan.
+
+Ekspor laporan dalam CSV dan PDF jika memungkinkan.
+
+Batasi data yang dapat diakses sesuai peran pengguna.
+
+# O. FITUR JURNAL MUHASABAH DAN PRAKTIK HARIAN
+
+Buat fitur jurnal pribadi yang dapat diisi peserta setelah mempelajari materi.
+
+Kolom:
+- Tanggal.
+- Tema materi.
+- Hal yang saya pahami.
+- Hal yang perlu saya perbaiki.
+- Amal atau kebiasaan yang akan saya praktikkan.
+- Kendala yang saya hadapi.
+- Rencana perbaikan.
+- Refleksi pribadi.
+
+Jurnal bersifat privat bagi peserta.
+
+Pembimbing hanya dapat mengakses jurnal jika terdapat pengaturan yang jelas, pemberitahuan kepada peserta, dan kewenangan yang sesuai.
+
+Jangan menjadikan jurnal pribadi sebagai bahan publikasi tanpa persetujuan peserta.
+
+Sediakan fitur pengingat untuk menyelesaikan jurnal, tanpa mewajibkan peserta mengungkapkan informasi sensitif yang tidak diperlukan.
+
+# P. SISTEM NOTIFIKASI
+
+Buat notifikasi di dalam aplikasi untuk:
+- Materi baru tersedia.
+- Evaluasi mingguan telah dibuka.
+- Evaluasi bulanan akan dilaksanakan.
+- Tugas belum dikumpulkan.
+- Nilai sudah diterbitkan.
+- Pembimbing memberikan umpan balik.
+- Evaluasi akhir sudah tersedia.
+- Status kelulusan telah ditetapkan.
+- Sertifikat telah disahkan.
+
+Sediakan opsi notifikasi email jika layanan email telah dikonfigurasi.
+
+Jangan mengklaim bahwa email atau notifikasi otomatis berfungsi sebelum integrasi dan pengiriman benar-benar diuji.
+
+# Q. DESAIN ANTARMUKA
+
+Gunakan desain modern, bersih, elegan, dan bernuansa pendidikan Islam.
+
+Warna utama:
+- Hijau tua.
+- Putih.
+- Krem.
+- Aksen emas lembut secukupnya.
+
+Karakter desain:
+- Profesional.
+- Tenang.
+- Mudah dibaca.
+- Tidak terlalu ramai.
+- Mengutamakan keterbacaan materi.
+- Responsif pada komputer dan ponsel.
+- Navigasi mudah dipahami pengguna pemula.
+
+Halaman utama:
+1. Beranda.
+2. Tentang Program.
+3. Kurikulum.
+4. Mata Pelajaran.
+5. Kalender Akademik.
+6. Referensi.
+7. Pendaftaran.
+8. Login.
+9. Dashboard Peserta.
+10. Dashboard Pembimbing.
+11. Dashboard Admin.
+12. Evaluasi.
+13. Sertifikat.
+14. Pusat Bantuan.
+
+Buat halaman beranda yang menjelaskan tujuan program, manfaat pembelajaran, durasi, mata pelajaran, mekanisme evaluasi, persyaratan kelulusan, dan profil pembimbing.
+
+Jangan mencantumkan gelar, jabatan, akreditasi, atau pengakuan lembaga yang belum terverifikasi.
+
+# R. TEKNOLOGI YANG DIGUNAKAN
+
+Bangun aplikasi menggunakan arsitektur yang mudah dipelihara dan dapat dikembangkan.
+
+Teknologi yang disarankan:
+
+Frontend:
+- React.
+- TypeScript.
+- HTML.
+- CSS atau framework antarmuka yang sesuai.
+
+Backend dan database:
+- Supabase.
+- PostgreSQL.
+- Supabase Authentication.
+- Row Level Security (RLS).
+- Supabase Edge Functions apabila diperlukan.
+
+Hosting:
+- Vercel atau layanan hosting lain yang sesuai.
+
+Fitur pendukung:
+- Penyimpanan file yang aman.
+- Pembuatan sertifikat PDF.
+- QR code untuk verifikasi sertifikat.
+- Sistem notifikasi.
+- Logging aktivitas.
+- Pencadangan database.
+
+Jika platform pengembangan yang digunakan memiliki keterbatasan, jelaskan keterbatasannya dan buat implementasi bertahap yang kompatibel.
+
+Jangan menampilkan fitur sebagai sudah aktif jika backend atau layanan terkait belum benar-benar diimplementasikan.
+
+# S. STRUKTUR DATABASE
+
+Rancang database relasional yang minimal memiliki tabel berikut:
+
+1. profiles
+   - id
+   - full_name
+   - email
+   - role
+   - participant_number
+   - status
+   - created_at
+
+2. programs
+   - id
+   - title
+   - description
+   - start_date
+   - end_date
+   - timezone
+   - status
+   - created_at
+
+3. subjects
+   - id
+   - name
+   - description
+   - learning_objectives
+   - status
+
+4. curriculum_days
+   - id
+   - program_id
+   - day_number
+   - scheduled_date
+   - subject_id
+   - title
+   - learning_objectives
+   - content
+   - references_data
+   - unlock_at
+   - status
+
+5. learning_progress
+   - id
+   - participant_id
+   - curriculum_day_id
+   - started_at
+   - completed_at
+   - completion_status
+
+6. assessments
+   - id
+   - program_id
+   - title
+   - assessment_type
+   - scheduled_at
+   - duration_minutes
+   - maximum_score
+   - passing_score
+   - status
+
+7. questions
+   - id
+   - assessment_id
+   - question_text
+   - question_type
+   - options
+   - correct_answer
+   - explanation
+   - points
+   - reference_id
+
+8. assessment_attempts
+   - id
+   - assessment_id
+   - participant_id
+   - started_at
+   - submitted_at
+   - score
+   - status
+   - attempt_number
+
+9. assessment_answers
+   - id
+   - attempt_id
+   - question_id
+   - answer
+   - awarded_score
+   - feedback
+
+10. assignments
+    - id
+    - curriculum_day_id
+    - title
+    - description
+    - rubric
+    - deadline
+
+11. assignment_submissions
+    - id
+    - assignment_id
+    - participant_id
+    - submission_content
+    - submitted_at
+    - score
+    - feedback
+    - reviewed_by
+
+12. reflection_journals
+    - id
+    - participant_id
+    - curriculum_day_id
+    - reflection_content
+    - created_at
+    - updated_at
+
+13. references_library
+    - id
+    - title
+    - author
+    - category
+    - publisher
+    - publication_year
+    - edition
+    - isbn
+    - source_url
+    - verification_status
+    - notes
+
+14. certificates
+    - id
+    - participant_id
+    - program_id
+    - certificate_number
+    - issued_at
+    - approved_by
+    - verification_token
+    - status
+    - revocation_reason
+
+15. notifications
+    - id
+    - recipient_id
+    - title
+    - message
+    - notification_type
+    - read_at
+    - created_at
+
+16. audit_logs
+    - id
+    - actor_id
+    - action
+    - entity_type
+    - entity_id
+    - created_at
+
+Buat relasi foreign key, indeks, constraint, dan kebijakan keamanan yang sesuai.
+
+Tabel di atas merupakan rancangan awal. Tambahkan tabel lain jika diperlukan untuk kalender akademik, perhitungan nilai, penugasan pembimbing, dan persetujuan penerbitan sertifikat.
+
+Jangan menyimpan kunci jawaban evaluasi di lokasi yang dapat diakses peserta sebelum evaluasi selesai.
+
+# T. KEAMANAN APLIKASI
+
+Terapkan:
+- Autentikasi pengguna yang aman.
+- Hak akses berbasis peran.
+- Row Level Security pada tabel yang berisi data pribadi.
+- Validasi input di frontend dan backend.
+- Pemeriksaan kewenangan pada setiap operasi sensitif.
+- Pembatasan akses materi yang belum terbuka.
+- Perlindungan terhadap akses langsung ke data peserta lain.
+- Penyimpanan rahasia di server, bukan pada kode frontend.
+- Pencatatan perubahan nilai dan status kelulusan.
+- Pencatatan penerbitan serta pembatalan sertifikat.
+- Pembatasan percobaan evaluasi sesuai kebijakan.
+- Pengelolaan sesi dan pemulihan kata sandi yang aman.
+
+Jangan pernah menaruh service_role key Supabase, kata sandi administrator, atau rahasia backend di kode frontend.
+
+Lakukan pengujian akses sebagai peserta, pembimbing, admin, dan pengguna yang belum login.
+
+# U. KETENTUAN KELENGKAPAN MATERI
+
+Aplikasi harus mampu menampung 90 materi harian lengkap.
+
+Jangan menganggap kurikulum selesai hanya karena 90 judul telah dibuat.
+
+Setiap materi wajib memiliki:
+- Isi pembelajaran yang layak.
+- Tujuan pembelajaran.
+- Dalil yang sesuai.
+- Referensi yang dapat diverifikasi.
+- Rangkuman.
+- Pertanyaan refleksi.
+- Tugas praktik.
+- Kuis atau pertanyaan pemahaman.
+
+Buat mekanisme pemeriksaan kelengkapan materi sebelum program dipublikasikan.
+
+Sediakan status:
+- Draft.
+- Dalam pemeriksaan.
+- Terverifikasi.
+- Siap dipublikasikan.
+- Dipublikasikan.
+- Diarsipkan.
+
+Materi yang belum diperiksa tidak boleh otomatis dianggap terverifikasi.
+
+Jika menggunakan AI untuk membantu menyusun materi, wajibkan pemeriksaan manusia sebelum materi dipublikasikan.
+
+# V. KRITERIA PENGUJIAN APLIKASI
+
+Sebelum dinyatakan selesai, lakukan pengujian berikut.
+
+1. Peserta dapat mendaftar dan login.
+2. Admin dapat mengatur program dan tanggal mulai.
+3. Sistem menghasilkan 90 jadwal materi.
+4. Materi terbuka sesuai tanggal dan pukul 00.00 WIB.
+5. Peserta tidak dapat membuka materi masa depan melalui URL langsung.
+6. Materi yang sudah tersedia dapat dibaca.
+7. Progres belajar tersimpan setelah pengguna keluar dan masuk kembali.
+8. Evaluasi Ahad tersedia sesuai kalender.
+9. Evaluasi bulanan berfungsi.
+10. Evaluasi akhir hari ke-90 berfungsi.
+11. Nilai objektif dihitung dengan benar.
+12. Jawaban uraian dapat diperiksa pembimbing.
+13. Perhitungan nilai akhir sesuai bobot.
+14. Status kelulusan dihitung berdasarkan persyaratan.
+15. Sertifikat hanya dapat diterbitkan setelah persetujuan.
+16. Kode QR mengarah ke halaman verifikasi yang benar.
+17. Peserta tidak dapat mengakses data peserta lain.
+18. Dashboard menampilkan data yang benar.
+19. Website responsif pada perangkat seluler.
+20. Tidak ada tombol penting yang hanya menjadi hiasan.
+21. Kesalahan backend ditangani dengan pesan yang dapat dipahami.
+22. Semua data penting tersimpan di database.
+23. Tanggal evaluasi tidak bertentangan dengan jadwal materi.
+24. Program memiliki tepat 90 hari kalender, dengan hari ke-90 sebagai penutupan program.
+25. Laporan akademik sesuai dengan data sebenarnya.
+
+# W. URUTAN PEMBANGUNAN APLIKASI
+
+Bangun aplikasi dalam tahap-tahap berikut.
+
+Tahap 1: Perencanaan sistem dan struktur proyek.
+
+Tahap 2: Pembuatan antarmuka dan navigasi.
+
+Tahap 3: Pembuatan database dan relasi.
+
+Tahap 4: Implementasi autentikasi dan hak akses.
+
+Tahap 5: Implementasi kurikulum dan kalender 90 hari.
+
+Tahap 6: Implementasi sistem pembukaan materi otomatis.
+
+Tahap 7: Pengisian 90 materi harian beserta referensinya.
+
+Tahap 8: Implementasi kuis dan evaluasi mingguan.
+
+Tahap 9: Implementasi evaluasi bulanan dan evaluasi akhir.
+
+Tahap 10: Implementasi tugas, jurnal, dan penilaian.
+
+Tahap 11: Implementasi dashboard akademik.
+
+Tahap 12: Implementasi sertifikat digital dan verifikasi.
+
+Tahap 13: Implementasi notifikasi.
+
+Tahap 14: Pengujian keamanan dan seluruh alur aplikasi.
+
+Tahap 15: Deployment dan panduan pengelolaan.
+
+Jangan mencoba membangun seluruh sistem secara sekaligus apabila hal tersebut menyebabkan kode tidak lengkap atau tidak dapat diuji.
+
+Pada setiap tahap:
+- Jelaskan tujuan tahap.
+- Berikan berkas atau kode lengkap yang diperlukan.
+- Sebutkan lokasi penyimpanan setiap berkas.
+- Berikan SQL yang benar apabila diperlukan.
+- Berikan langkah menjalankan dan menguji.
+- Jelaskan hasil yang seharusnya terlihat.
+- Jangan mengklaim berhasil sebelum pengujian dilakukan.
+
+# X. PERINTAH PELAKSANAAN
+
+Mulailah dengan merancang aplikasi akademik MENATA HIDUP sesuai spesifikasi di atas.
+
+Prioritas pertama:
+1. Bangun arsitektur sistem yang benar.
+2. Buat rancangan database.
+3. Siapkan autentikasi dan hak akses.
+4. Buat kurikulum terjadwal selama 90 hari.
+5. Pastikan aturan pembukaan materi menggunakan WIB dan pemeriksaan backend.
+6. Siapkan struktur enam mata pelajaran.
+7. Siapkan mekanisme evaluasi dan sertifikat.
+
+Setelah fondasi tersebut selesai dan dapat diuji, lanjutkan pengisian materi serta pengembangan fitur lainnya.
+
+Jika terdapat informasi yang belum tersedia, gunakan nilai sementara yang mudah diubah melalui pengaturan admin. Tandai informasi tersebut sebagai belum dikonfirmasi dan jangan mengarang identitas lembaga, pembimbing, atau pengakuan resmi.
+
+Hasil akhir harus berupa aplikasi pembelajaran Islam yang dapat dipelihara, aman, mudah digunakan, dapat diuji, dan benar-benar mendukung pembelajaran terstruktur selama 90 hari.
+
+**Prinsip utama: Utamakan kebenaran ilmiah, ketepatan dalil, kualitas pendidikan, keamanan data, integritas evaluasi, dan kemudahan penerapan dalam kehidupan sehari-hari.**
